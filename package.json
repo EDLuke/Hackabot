@@ -2,7 +2,7 @@
   "name": "hackabot",
   "version": "1.0.0",
   "description": "Crawler bot to find hackathons near New York City and notify via Slack",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
